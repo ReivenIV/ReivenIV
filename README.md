@@ -14,7 +14,7 @@ and starting to play in the blockchain and smart contracts.
 - 💞️ I’m looking forward to working with big, medium or small enterprises, (startups definitely included) just under one condition. Good team, wild spirit, ready for everything. 
 
 - <h4> Feel free to contact me on: </h4> 
---> runy.alen@gmail.com <br>
+--> webe.federico@gmail.com <br>
 --> https://www.linkedin.com/in/federico-webe-620935222
 
 

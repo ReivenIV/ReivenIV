@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @ReivenIV --> <strong> OPEN TO WORK </strong> <--
 
-- 👀 I'm 27 years old, finished my studies of Architecture in Lyon-France (Buildings Architecture) in 2021. Two month ago I started to learn to code. 
+- 👀 I'm 28 years old, finished my studies of Architecture in Lyon-France (Buildings Architecture) in 2021. Two month later I started to learn to code. 
 
-- 🌱 I’m currently learning Front-End because all my studies were about expression and designing spaces. I have the certitud that programing is just one more tool 
-and i m looking forward to create spaces where people can meet or found services around the globe. I m mainly starting for the basics HTML, CSS and Vanilla JS... 
-and when i get better,  i'm counting on going straight to REACT.js and Three.js.
+- 🌱 I’m currently learning Fullstack JS Node && React. I have the certitud that programing is just one more tool 
+and i m looking forward to create spaces where people can meet or found services around the globe. 
 
-I'm deeply inspired by the web 3.0, but at my point right now i ' m aware that i need to progress, understand and manipulate web 2.0 before. but i ' m counting on going to Solidity 
+I'm deeply inspired by the web 3.0, but at my level right now i' m aware that i need to progress, understand and manipulate web 2.0 before. but i' m counting on going to Solidity 
 and starting to play in the blockchain and smart contracts.
 
 

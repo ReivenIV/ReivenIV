@@ -1,4 +1,4 @@
-[MasterHead](https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<img width="2600" height="300" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
 <h1 align="center">Hi 👋, I'm ReiVen</h1>
 <h3 align="center">A passionate back end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/7d75f0c6552a6553a81e5b13de522484/tumblr_nitrprSAZ61qhv2wyo1_1280.gif">
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reivenow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reivenow" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fédé-620935222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fédé ." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fédé-620935222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

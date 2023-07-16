@@ -1,7 +1,7 @@
 <img width="2600" height="300" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
 <h1 align="center">Hi 👋, I'm ReiVen</h1>
 <h3 align="center">A passionate back end developer</h3>
-<img align="right" alt="Coding" width="400" height="700" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRzYTJveGc1dmF0ejdta3RvODNjcmdxemt4aTRxbTNxNnNkMTc4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMK8ZDnQHAdbkpE6rb/giphy.gif">
+<img align="right" alt="Coding" width="400" height="650" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRzYTJveGc1dmF0ejdta3RvODNjcmdxemt4aTRxbTNxNnNkMTc4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMK8ZDnQHAdbkpE6rb/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" /> </p>
 

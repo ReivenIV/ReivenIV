@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ReiVen</h1>
 <h3 align="center">A passionate back end developer</h3>
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://66.media.tumblr.com/7d75f0c6552a6553a81e5b13de522484/tumblr_nitrprSAZ61qhv2wyo1_1280.gif?w=640)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" /> </p>
 

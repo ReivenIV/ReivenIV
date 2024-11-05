@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" /> </p>
 
-- 💬 Looking foward to create projets together
-
+- 💬 Looking foward to work or improve projets together
 - 📫 How to reach me **zn7kkh0m@duck.com**
+<p/> After 3 years of working with javascript and node.js at Diampark, I am looking forward to learning low-level languages, I would like to use languages that are less energy consuming and faster at solving algorithms. </p>
 
 <h3 align="left">Languages and Tools:</h3>
 

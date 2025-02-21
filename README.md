@@ -1,13 +1,13 @@
 <img width="2600" height="300" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
-<h1 align="center">Hi 👋, I'm ReiVen</h1>
-<h3 align="center">A passionate back end developer</h3>
+<h1 align="center">Hi 👋, I'm Reiven</h1>
+<h3 align="center">A passionate dev, i like Back end and R&D. I'm courious about embed/IoT programing in case you wanna share some knowledge !</h3>
 <img align="right" alt="Coding" width="400" height="625" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRzYTJveGc1dmF0ejdta3RvODNjcmdxemt4aTRxbTNxNnNkMTc4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMK8ZDnQHAdbkpE6rb/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" /> </p>
 
 - 💬 Looking foward to work or improve projets together
 - 📫 How to reach me **zn7kkh0m@duck.com**
-<p/> After 3 years of working with javascript and node.js at Diampark, I am looking forward to learning low-level languages, I would like to use languages that are less energy consuming and faster at solving algorithms. </p>
+<p/> After 1 year learning JS 2 years of working with node.js at a start up, I am looking forward to lear low-level languages, I would like to use languages that are less energy consuming, faster at solving algorithms while handling the complex of low level languages. Working on basic in C, next stop C++, Rust ? </p>
 
 <h3 align="left">Languages and Tools:</h3>
 

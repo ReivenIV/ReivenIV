@@ -1,23 +1,53 @@
-<img width="2600" height="300" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
-<h1 align="center">Hi 👋, I'm Reiven</h1>
-<h3 align="center">A passionate dev, i like Back end and R&D. I'm courious about embed/IoT programing in case you wanna share some knowledge !</h3>
-<img align="right" alt="Coding" width="400" height="625" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRzYTJveGc1dmF0ejdta3RvODNjcmdxemt4aTRxbTNxNnNkMTc4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMK8ZDnQHAdbkpE6rb/giphy.gif">
+<img width="2600" height="600" src="./assets/city.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" /> </p>
+<h1 align="center">Hey 👋, I'm Reiven</h1>
+<h3 align="center">Backend & Data Engineer — building things that ship, scale, and don't wake me up at 3AM.</h3>
 
-- 💬 Looking foward to work or improve projets together
-- 📫 How to reach me **zn7kkh0m@duck.com**
-<p/> After 1 year learning JS 2 years of working with node.js at a start up, I am looking forward to lear low-level languages, I would like to use languages that are less energy consuming, faster at solving algorithms while handling the complex of low level languages. Working on basic in C, next stop C++, Rust ? </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reiveniv&label=Profile%20views&color=0e75b6&style=flat" alt="reiveniv" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
- 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+### About me
 
-  
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+I design and build backend systems and data pipelines — the kind that quietly handle hundreds of thousands of records without anyone noticing.
 
+Most recently, I built an **ETL pipeline handling 600k+ contacts** for a fintech, and before that spent 2 years at a medtech refactoring a monolith into microservices.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reiveniv&show_icons=true&locale=en&layout=compact" alt="reiveniv" /></p>
+I care about **simplicity, shipping fast, and clean architecture** — SOLID, ACID, the boring stuff that saves you later. Currently sharpening my low-level chops at **42 School** with C/C++.
+
+---
+
+<img align="right" width="400" src="./assets/lamp_portrait.gif" alt="lava lamp" />
+
+### 🎯 Highlights
+
+- 🏆 **1st place** — ElevenLabs AI Hackathon (March 2025)
+- 🎓 **42 School** — C/C++ (2024–2025)
+- 🌍 Based in Paris 🇫🇷 — speak FR / EN / ES
+
+### 🚀 What I'm up to
+
+- 🔧 Building data systems, API, ETL, Monitoring, fullstack
+- 🦀 Exploring lower-level languages — eyeing Rust next
+- 💬 Open to collaboration on backend, data, or infra projects
+- 📫 Reach me: **[zn7kkh0m@duck.com](mailto:zn7kkh0m@duck.com)**
+
+### 🛠️ Stack
+
+| Domain            | Tools  (Ready to learn use new ones)                                   |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Languages**     | TypeScript · JavaScript · C · C++ · Bash · SQL                         |
+| **Backend**       | Node.js · Next.js (App Router) · Express · Fastify                     |
+| **Frontend**      | React · Tailwind CSS · React Hook Form · Zod                           |
+| **Databases**     | SQL · PostgreSQL · MySQL · SQLite                                      |
+| **Data & ETL**    | Excel · Pipes · Schema design · Validation · Transactions              |
+| **Testing**       | Vitest · Jest                                                          |
+| **DevOps**        | Docker · Docker Compose · Traefik · Make · Git · Shell · YAML          |
+| **Cloud & Infra** | AWS (Cloud Practitioner) · S3 · VPS · Linux                            |
+| **Observability** | Grafana · Logs                                                         |
+| **Practices**     | SOLID · OOP · MVC · Clean Architecture · ACID · Versioning             |
+| **Workflow**      | Scrum · Jira · Notion · Trello                                         |
+
+<br clear="right"/>

@@ -19,7 +19,7 @@ I care about **simplicity, shipping fast, and clean architecture** — SOLID, AC
 
 ---
 
-<img align="right" width="400" src="./assets/lamp_portrait.gif" alt="lava lamp" />
+<img align="right" width="210" src="./assets/lamp_stretched.gif" alt="lava lamp" />
 
 ### 🎯 Highlights
 
